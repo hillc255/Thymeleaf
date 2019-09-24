@@ -17,6 +17,12 @@ public class UserController {
     @RequestMapping(value = "demo", method = RequestMethod.GET)
     public String demo(Model model) {
         model.addAttribute("message", "Hello Thymeleaf");
+
+        //add variables
+        // variable1
+        model.addAttribute("variable1", "Hyacinth");
+        // variable2
+        model.addAttribute("variable2", "Carnation");
         // return to templates/demo.html page.
         return "demo";
     }
