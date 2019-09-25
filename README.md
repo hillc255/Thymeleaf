@@ -30,10 +30,10 @@ demo2: </br>
 </br>
 Thymeleaf Loop
 
-ID 	Name 	Age
-1 	Tom 	30
-2 	Jerry 	29
-3 	Nancy 	27
+ID 	Name 	Age </br>
+1 	Tom 	30 </br>
+2 	Jerry 	29 </br>
+3 	Nancy 	27 </br>
 
 Thymeleaf Scope
 
