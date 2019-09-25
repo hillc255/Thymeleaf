@@ -47,7 +47,8 @@ Visit Demo Page </br>
 Visit Demo page With Parameter
 
 ---------------------------------
-demo3: </br>
+demo3:
+</br>
 Thymeleaf Loop
 
 ID 	Name 	Age
