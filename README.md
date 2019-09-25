@@ -16,7 +16,8 @@ Thymeleaf, a Spring Boot template engine  - Udacity Java Nanodegree.
  ## In browser  
    
    http://localhost:8080/demo </br>
-   http://localhost:8080/demo2
+   http://localhost:8080/demo2 </br>
+   http://localhost:8080/demo3
    
  ## Result 
  
