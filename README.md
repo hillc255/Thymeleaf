@@ -22,9 +22,12 @@ Thymeleaf, a Spring Boot template engine  - Udacity Java Nanodegree.
  ## Result 
  
 demo: </br>
-Hello Thymeleaf 
+</br>
+Hello Thymeleaf
+
 ---------------------------------   
 demo2: </br>
+</br>
 Thymeleaf Loop
 
 ID 	Name 	Age
