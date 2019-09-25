@@ -15,14 +15,13 @@ Thymeleaf, a Spring Boot template engine  - Udacity Java Nanodegree.
     
  ## In browser  
    
-   http://localhost:8080/demo
+   http://localhost:8080/demo </br>
    http://localhost:8080/demo2
-   
    
  ## Result 
  
 demo: </br>
-Hello Thymeleaf
+Hello Thymeleaf 
 ---------------------------------   
 demo2: </br>
 Thymeleaf Loop
@@ -40,7 +39,7 @@ Application:
 
 Thymeleaf URLs
 
-Visit Demo Page
+Visit Demo Page </br?
 Visit Demo page With Parameter
 ---------------------------------
 demo3: </br>
