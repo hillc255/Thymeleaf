@@ -39,8 +39,10 @@ Application:
 
 Thymeleaf URLs
 
-Visit Demo Page </br?
+
+Visit Demo Page </br>
 Visit Demo page With Parameter
+
 ---------------------------------
 demo3: </br>
 Thymeleaf Loop
@@ -55,5 +57,5 @@ Application: application data
 
 Thymeleaf URLs
 
-Visit Demo Page
+Visit Demo Page </br>
 Visit Demo page With Parameter
