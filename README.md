@@ -55,9 +55,9 @@ ID 	Name 	Age
 
 Thymeleaf Scope
 
-Request: request data
-Session: session data
-Application: application data
+Request: request data </br>
+Session: session data </br>
+Application: application data</br>
 
 Thymeleaf URLs
 
