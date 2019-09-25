@@ -37,12 +37,11 @@ ID 	Name 	Age
 
 Thymeleaf Scope
 
-Request:
-Session:
-Application:
+Request: </br>
+Session: </br>
+Application: </br>
 
 Thymeleaf URLs
-
 
 Visit Demo Page </br>
 Visit Demo page With Parameter
