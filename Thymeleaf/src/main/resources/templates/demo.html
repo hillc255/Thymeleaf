@@ -5,13 +5,22 @@
     <title>Thymeleaft Demo</title>
 </head>
 <body>
-<span th:text="${message}"></span>
-<h3>Examples of Flower Variables</h3>
 
-<h4>${variable1}</h4>
-<span th:utext="${variable1}"></span>
-<h4>${variable2}</h4>
-<span th:utext="${variable2}"></span>
+<span th:text="${message}"></span>
+
+<h3>Exam Results</h3>
+<div th:if="${grade} >= 60">
+    You passed the exam.
+    <div th:switch="${GPA}">You are
+        <span th:case="A">Excellent</span>
+        <span th:case="B">Good</span>
+        <span th:case="C">Okay</span>
+        <span th:case="D">Need improvement</span>
+    </div>
+</div>
+<div th:if="${grade} < 60">
+    You failed the exam.
+</div>
 
 </body>
 </html>
